@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá! Eu sou o Juan Ortiz
+
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando Next
+- 😄 Pronouns: ele/dele
 
 <!--
 **JuanP3dro/JuanP3dro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
