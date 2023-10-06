@@ -4,11 +4,6 @@
 - 🌱 Estudando Next
 - 😄 Pronouns: ele/dele
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanP3dro&show_icons=true&theme=dracula&include_all_commits=true&repo=JuanP3dro&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanP3dro&layout=compact&theme=dracula"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
